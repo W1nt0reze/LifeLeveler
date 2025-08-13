@@ -1,0 +1,17 @@
+{
+  "name": "Life Leveler",
+  "short_name": "LifeLeveler",
+  "description": "Помощник для повышения продуктивности",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4a76a8",
+  "background_color": "#ffffff",
+  "vk_platform": "mobile_web"
+}

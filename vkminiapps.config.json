@@ -1,0 +1,9 @@
+{
+  "app": {
+    "app_id": "54017858"
+  },
+  "deploy": {
+    "target": "vk-miniapps",
+    "folder": "build"
+  }
+}

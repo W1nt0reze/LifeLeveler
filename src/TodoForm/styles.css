@@ -1,0 +1,43 @@
+.TodoForm {
+  width: 100%;
+  display: flex;
+  padding: 12px;
+  box-sizing: border-box;
+  gap: 8px;
+}
+
+.TodoForm__input {
+  flex-grow: 1;
+  padding: 8px;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  background: var(--bg-color);
+  color: var(--text-color);
+}
+
+.TodoForm__select {
+  padding: 8px;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  background: var(--bg-color);
+  color: var(--text-color);
+  min-width: 100px;
+}
+
+.TodoForm__button {
+  padding: 8px 16px;
+  background: #0077ff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.TodoForm__button:hover {
+  background: #0055cc;
+}
+
+.dark-mode .TodoForm__button {
+  background: #3a7bd5;
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "task": "Написать менеджеру по работе",
+    "completed": true,
+    "category": "work"
+  },
+  {
+    "id": 2,
+    "task": "Купить молоко и хлеб",
+    "completed": false,
+    "category": "shopping"
+  },
+  {
+    "id": 3,
+    "task": "Подготовиться к экзамену по математике",
+    "completed": false,
+    "category": "study"
+  }
+]
